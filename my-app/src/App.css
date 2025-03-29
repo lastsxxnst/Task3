@@ -1,0 +1,20 @@
+/* In App.css or another stylesheet */
+.user-card {
+  padding: 10px;
+  margin: 10px 0;
+  border: 3px solid #ccc;
+  border-radius: 30px;
+}
+
+input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 5px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
